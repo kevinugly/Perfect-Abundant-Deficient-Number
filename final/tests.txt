@@ -1,0 +1,25 @@
+x canary test
+
+x getSum of 1 returns BigInteger 0
+x getSum of 5 returns BigInteger 1
+x getSum of 50 returns BigInteger 43
+x getSum of 500 returns BigInteger 592
+x getSum of 5000 returns BigInteger 6715
+
+x isPerfectNumber of 6 returns true
+x isPerfectNumber of 15 returns false
+x isPerfectNumber of 28 returns true
+x isPerfectNumber of 255 returns false
+x isPerfectNumber of 496 returns true
+
+x isAbundantNumber of 12 returns true
+x isAbundantNumber of 28 returns false
+x isAbundantNumber of 40 returns true
+x isAbundantNumber of 55 returns false
+x isAbundantNumber of 66 returns true
+
+x isDeficientNumber of 1 returns true
+x isDeficientNumber of 6 returns false
+x isDeficientNumber of 11 returns true
+x isDeficientNumber of 18 returns false
+x isDeficientNumber of 19 returns true

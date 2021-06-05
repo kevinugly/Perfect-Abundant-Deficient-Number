@@ -1,0 +1,10 @@
+number/AbundantNumberTest.java
+ number.AbundantNumberTest
+number/DeficientNumberTest.java
+ number.DeficientNumberTest
+number/BaseNumberTest.java
+ number.BaseNumberTest
+number/PerfectNumberTest.java
+ number.PerfectNumberTest
+number/GetSumTest.java
+ number.GetSumTest

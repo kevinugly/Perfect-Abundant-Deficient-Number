@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="number.PerfectNumberTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-12-01T18:29:22" hostname="Kevins-MacBook-Air" time="0.084">
+  <properties/>
+  <testcase name="testNumber(int, boolean)[1]" classname="number.PerfectNumberTest" time="0.004"/>
+  <testcase name="testNumber(int, boolean)[2]" classname="number.PerfectNumberTest" time="0.001"/>
+  <testcase name="testNumber(int, boolean)[3]" classname="number.PerfectNumberTest" time="0.004"/>
+  <testcase name="testNumber(int, boolean)[4]" classname="number.PerfectNumberTest" time="0.029"/>
+  <testcase name="testNumber(int, boolean)[5]" classname="number.PerfectNumberTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
